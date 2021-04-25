@@ -6,8 +6,6 @@
 
 ### 🏠 [Homepage](https://github.com/torukobyte?tab=repositories)
 
-## Author
-
 👤 **torukobyte**
 
 * Twitter: [@torukobyte](https://twitter.com/torukobyte)
