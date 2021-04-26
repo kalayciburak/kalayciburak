@@ -3,7 +3,7 @@
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=torukobyte.visitor-badge)](https://GitHub.com/torukobyte/StrapDown.js/stargazers/)
 
 
-Contact me via these platforms! 
+## ⬇️ Contact me via these platforms! 
 
   <a href="https://www.linkedin.com/in/torukobyte/" target="_blank" rel="nofollow"><img alt="Burak's Linkedin" src="https://img.shields.io/badge/LinkedIn-c72064??style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:torukobyte@gmail.com" target="_blank" rel="nofollow"><img alt="Burak's Mail Address" src="https://img.shields.io/badge/Gmail-c72064??style=flat-square&logo=gmail&logoColor=white" /></a>
