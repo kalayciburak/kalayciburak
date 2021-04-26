@@ -12,7 +12,7 @@
 ## 🛠 Technologies & Tools 
 <img src="https://img.shields.io/badge/Python-3470A0??style=flat-square&logo=python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/C%23-953DAC??style=flat-square&logo=c-sharp&logoColor=white"></img>
-<img src="https://img.shields.io/badge/JavaScript-EFD81D??style=flat-square&logo=javascript&logoColor=white"></img>
+<img src="https://img.shields.io/badge/JavaScript-EFD81D??style=flat-square&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/TypeScript-2F74C0??style=flat-square&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/.Net-6B18E7??style=flat-square&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Java-9E0000??style=flat-square&logo=java&logoColor=white"></img>
