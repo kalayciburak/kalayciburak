@@ -10,7 +10,7 @@
   <a href="mailto:torukobyte@gmail.com" target="_blank" rel="nofollow"><img alt="Burak's Mail Address" src="https://img.shields.io/badge/Gmail-F14236??style=flat-square&logo=gmail&logoColor=white" /></a>
 
 ## 🛠 Technologies & Tools 
-<img src="https://img.shields.io/badge/Python-3470A0??style=flat-square&logo=python&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Python-1FD594??style=flat-square&logo=python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/C%23-953DAC??style=flat-square&logo=c-sharp&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-EFD81D??style=flat-square&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/TypeScript-2F74C0??style=flat-square&logo=typescript&logoColor=white"></img>
