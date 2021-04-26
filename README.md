@@ -7,7 +7,7 @@ Contact me via these platforms!
 
   <a href="https://www.linkedin.com/in/torukobyte/" target="_blank" rel="nofollow"><img alt="Burak's Linkedin" src="https://img.shields.io/badge/LinkedIn-c72064??style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:torukobyte@gmail.com" target="_blank" rel="nofollow"><img alt="Burak's Mail Address" src="https://img.shields.io/badge/Gmail-c72064??style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.twitter.com/in/torukobyte/" target="_blank" rel="nofollow"><img alt="Burak's Linkedin" src="https://img.shields.io/badge/Twitter-c72064??style=flat-square&logo=twitter&logoColor=white" /></a>
+    <a href="https://www.twitter.com/torukobyte/" target="_blank" rel="nofollow"><img alt="Burak's Linkedin" src="https://img.shields.io/badge/Twitter-c72064??style=flat-square&logo=twitter&logoColor=white" /></a>
 
 ## 🛠 Technologies & Tools 
 <img src="https://img.shields.io/badge/Python-c72064??style=flat-square&logo=python&logoColor=white"></img>
