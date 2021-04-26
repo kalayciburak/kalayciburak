@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/PHP-8892BF??style=flat-square&logo=php&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Ionic-5291FF??style=flat-square&logo=ionic&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Flutter-51BFF0??style=flat-square&logo=flutter&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Dart-17212F??style=flat-square&logo=dart&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Dart-183B55??style=flat-square&logo=dart&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS-0B75C2??style=flat-square&logo=css3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-DD4B25??style=flat-square&logo=html5&logoColor=white"></img>
 
