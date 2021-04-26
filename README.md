@@ -22,8 +22,8 @@
 <img src="https://img.shields.io/badge/Ionic-c72064??style=flat-square&logo=ionic&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Flutter-c72064??style=flat-square&logo=flutter&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Dart-c72064??style=flat-square&logo=dart&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Dart-c72064??style=flat-square&logo=dart&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Dart-c72064??style=flat-square&logo=dart&logoColor=white"></img>
+<img src="https://img.shields.io/badge/CSS-c72064??style=flat-square&logo=css3&logoColor=white"></img>
+<img src="https://img.shields.io/badge/HTML5-c72064??style=flat-square&logo=html5&logoColor=white"></img>
 
 
 
