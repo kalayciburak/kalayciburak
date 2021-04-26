@@ -3,13 +3,10 @@
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=torukobyte.visitor-badge)](https://GitHub.com/torukobyte/StrapDown.js/stargazers/)
 
 
-### 🏠 [Homepage](https://github.com/torukobyte?tab=repositories)
+Contact me via these platforms! 
 
-👤 **torukobyte**
-
-* Twitter: [@torukobyte](https://twitter.com/torukobyte)
-* Github: [@torukobyte](https://github.com/torukobyte)
-* LinkedIn: [@torukobyte](https://linkedin.com/in/torukobyte)
+  <a href="https://www.linkedin.com/in/torukobyte/" target="_blank" rel="nofollow"><img alt="Burak's Linkedin" src="https://img.shields.io/badge/LinkedIn-c72064??style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:torukobyte@gmail.com" target="_blank" rel="nofollow"><img alt="Burak's Mail Address" src="https://img.shields.io/badge/Gmail-c72064??style=flat-square&logo=gmail&logoColor=white" /></a>
 
 ## 🛠 Technologies & Tools 
 <img src="https://img.shields.io/badge/Python-c72064??style=flat-square&logo=python&logoColor=white"></img>
