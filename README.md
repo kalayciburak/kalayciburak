@@ -14,12 +14,15 @@
 ## 🛠 Technologies & Tools 
 <img src="https://img.shields.io/badge/Python-c72064??style=flat-square&logo=python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/C%23-c72064??style=flat-square&logo=c-sharp&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Java-c72064??style=flat-square&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-c72064??style=flat-square&logo=javascript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/TypeScript-c72064??style=flat-square&logo=typescript&logoColor=white"></img>
+<img src="https://img.shields.io/badge/.Net-c72064??style=flat-square&logo=.net&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Java-c72064??style=flat-square&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/PHP-c72064??style=flat-square&logo=php&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Ionic-c72064??style=flat-square&logo=ionic&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Flutter-c72064??style=flat-square&logo=flutter&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Dart-c72064??style=flat-square&logo=dart&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Dart-c72064??style=flat-square&logo=dart&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Dart-c72064??style=flat-square&logo=dart&logoColor=white"></img>
 
 
