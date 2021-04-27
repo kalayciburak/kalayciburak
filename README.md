@@ -41,7 +41,7 @@
 <a href="https://angular.io/" target="_blank" src="https://user-images.githubusercontent.com/61664693/116169133-b438ce80-a70c-11eb-8e91-4d57e3f94851.png" width="40px"></a>
 <a href="https://firebase.google.com/" target="_blank" src="https://user-images.githubusercontent.com/61664693/116169154-b69b2880-a70c-11eb-8220-18127bb1e9a8.png" width="40px"></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" src="https://user-images.githubusercontent.com/61664693/116169139-b569fb80-a70c-11eb-8df4-4fa9be0bebe3.png" width="40px"></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" src="https://user-images.githubusercontent.com/61664693/116169137-b4d16500-a70c-11eb-86b9-304ea63ba9d1.png" width="40px"></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" alt="html5"><img src="https://user-images.githubusercontent.com/61664693/116169137-b4d16500-a70c-11eb-86b9-304ea63ba9d1.png" width="40px"></img></a>
 
 
 
