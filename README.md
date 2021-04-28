@@ -1,4 +1,3 @@
-[![GitHub followers](https://img.shields.io/github/followers/torukobyte?style=social)](https://github.com/torukobyte?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/torukobyte?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=torukobyte.visitor-badge)](https://GitHub.com/torukobyte/StrapDown.js/stargazers/)
 
