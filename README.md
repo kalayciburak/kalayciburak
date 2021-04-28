@@ -7,8 +7,8 @@
 
 <a href="https://www.twitter.com/torukobyte" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171179-f237f180-a710-11eb-9ff4-3b3935c74d44.png" width="55px"></img></a>
 <a href="https://www.linkedin.com/in/torukobyte" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x"></img></a>
-<a href="mailto:torukobyte@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>
 <a href="https://www.instagram.com/torukobyte" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116333770-b702f480-a7dc-11eb-8654-0378659e4719.png" width="55px"></img></a>
+<a href="mailto:torukobyte@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>
 
 <!--
 <a href="https://www.twitter.com/torukobyte/" target="_blank" rel="nofollow"><img alt="Burak's Linkedin" src="https://img.shields.io/badge/Twitter-1DA1F2??style=flat-square&logo=twitter&logoColor=white" /></a>
