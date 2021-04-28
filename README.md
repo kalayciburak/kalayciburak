@@ -1,4 +1,5 @@
-![GitHub stars](https://img.shields.io/github/stars/torukobyte?style=social)
+<!-- ![GitHub stars](https://img.shields.io/github/stars/torukobyte?style=social) -->
+![GitHub stars](https://img.shields.io/github/stars/torukobyte?style=flat-square&logo=github)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=torukobyte.visitor-badge)](https://GitHub.com/torukobyte)
 
 
