@@ -1,6 +1,7 @@
 <!-- ![GitHub stars](https://img.shields.io/github/stars/torukobyte?style=social) -->
-![GitHub stars](https://img.shields.io/github/stars/torukobyte?style=flat&logo=github)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=torukobyte.visitor-badge)](https://GitHub.com/torukobyte)
+[![GitHub followers](https://img.shields.io/github/followers/torukobyte?style=flat&logo=github)](https://github.com/torukobyte?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/torukobyte?style=flat&logo=github)](https://github.com/torukobyte?tab=repositories)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=torukobyte.visitor-badge)](https://gitHub.com/torukobyte)
 
 
 ## ⬇️ Contact me via these platforms! 
