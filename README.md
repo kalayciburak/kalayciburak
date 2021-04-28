@@ -55,12 +55,18 @@
 
 <p align="center">
   <p>
+    <a href="https://github.com/torukobyte" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=torukobyte&count_private=true&show_icons=true&theme=tokyonight">
+      </a>
 </p>
   <p>
+  <a href="https://github.com/torukobyte/e-commerce-asp.net-5.0" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=torukobyte&repo=e-commerce-asp.net-5.0&layout=compact&show_icons=true&theme=tokyonight">
+  </a>
   </p>
   <p>
+  <a href="https://github.com/torukobyte?tab=repositories" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torukobyte&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  </a>
   </p>
 </p>
