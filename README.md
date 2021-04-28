@@ -55,12 +55,12 @@
 
 <p align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=torukobyte&count_private=true&show_icons=true&theme=jolly">
+    <img src="https://github-readme-stats.vercel.app/api?username=torukobyte&count_private=true&show_icons=true&theme=tokyonight">
 </p>
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=torukobyte&repo=e-commerce-asp.net-5.0&layout=compact&show_icons=true&theme=jolly">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=torukobyte&repo=e-commerce-asp.net-5.0&layout=compact&show_icons=true&theme=tokyonight">
   </p>
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torukobyte&hide=python&layout=compact&show_icons=true&theme=jolly">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torukobyte&hide=python&layout=compact&show_icons=true&theme=tokyonight">
   </p>
 </p>
