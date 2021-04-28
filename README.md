@@ -1,5 +1,5 @@
 ![GitHub stars](https://img.shields.io/github/stars/torukobyte?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=torukobyte.visitor-badge)](https://GitHub.com/torukobyte/StrapDown.js/stargazers/)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=torukobyte.visitor-badge)](https://GitHub.com/torukobyte/JavaCampHomework)
 
 
 ## ⬇️ Contact me via these platforms! 
