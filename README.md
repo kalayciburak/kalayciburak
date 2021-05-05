@@ -60,8 +60,8 @@
       </a>
 </p>
   <p>
-  <a href="https://github.com/torukobyte/e-commerce-asp.net-5.0" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=torukobyte&repo=e-commerce-asp.net-5.0&layout=compact&show_icons=true&theme=tokyonight">
+  <a href="https://github.com/torukobyte/e-commerce-ASP.NET-Core-5.0" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=torukobyte&repo=e-commerce-ASP.NET-Core-5.0&layout=compact&show_icons=true&theme=tokyonight">
   </a>
   </p>
   <p>
