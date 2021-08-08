@@ -61,8 +61,8 @@
       </a>
 </p>
   <p>
-  <a href="https://github.com/torukobyte/JavaCampHomework" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=torukobyte&repo=JavaCampHomework&layout=compact&show_icons=true&theme=tokyonight">
+  <a href="https://github.com/torukobyte/HRMS_Spring" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=torukobyte&repo=HRMS_Spring&layout=compact&show_icons=true&theme=tokyonight">
   </a>
   </p>
   <p>
