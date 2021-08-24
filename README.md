@@ -37,6 +37,7 @@
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/61664693/116169127-b307a180-a70c-11eb-9097-06d1f280065e.png" width="45px"></img></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://user-images.githubusercontent.com/61664693/116169150-b6029200-a70c-11eb-9921-7069d54849ae.png" width="45px"></img></a>
 <a href="https://www.javascript.com/"><img src="https://user-images.githubusercontent.com/61664693/116169142-b569fb80-a70c-11eb-8de0-029cbc2b2aef.png" width="45px"></img></a>
+<a href="https://golang.org/"><img src="https://user-images.githubusercontent.com/61664693/130692276-856d310d-e033-4df0-bafb-cf999bf40aa5.png" width="45px"></img></a>
 <a href="https://www.java.com/"><img src="https://user-images.githubusercontent.com/61664693/116169128-b3a03800-a70c-11eb-8fbe-55a5c4ad2689.png" width="45px"></img></a>
 <a href="https://ionicframework.com/"><img src="https://user-images.githubusercontent.com/61664693/116169148-b6029200-a70c-11eb-8747-163f97723dc4.png" width="45px"></img></a>
 <a href="https://flutter.dev/"><img src="https://user-images.githubusercontent.com/61664693/116169134-b438ce80-a70c-11eb-9029-35fbfdd926ae.png" width="45px"></img></a>
