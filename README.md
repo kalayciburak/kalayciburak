@@ -50,10 +50,8 @@
 <a href="https://firebase.google.com/" ><img src="https://user-images.githubusercontent.com/61664693/116169154-b69b2880-a70c-11eb-8220-18127bb1e9a8.png" width="45px"></img></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://user-images.githubusercontent.com/61664693/116169139-b569fb80-a70c-11eb-8df4-4fa9be0bebe3.png" width="45px"></img></a>
 <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://user-images.githubusercontent.com/61664693/116169137-b4d16500-a70c-11eb-86b9-304ea63ba9d1.png" width="45px"></img></a>
-<!--
 <a href="https://flutter.dev/"><img src="https://user-images.githubusercontent.com/61664693/116169134-b438ce80-a70c-11eb-9029-35fbfdd926ae.png" width="45px"></img></a>
 <a href="https://dart.dev/" ><img src="https://user-images.githubusercontent.com/61664693/116169151-b69b2880-a70c-11eb-9b5f-d6963d384b83.png" width="45px"></img></a> 
--->
 
 ## 📊 GitHub Stats
 
