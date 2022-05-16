@@ -75,7 +75,7 @@
   </a>
   </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord)](https://github.com/torukobyte)
 
 
   <p>
@@ -84,6 +84,6 @@
   </a>
   </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=torukobyte&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=torukobyte&theme=nord)](https://github.com/torukobyte)
 
 </div>
