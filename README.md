@@ -75,12 +75,12 @@
   </a>
   </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord&v=2&layout=compact&hide=Markdown,Config,xml,yaml,json,cshtml)](https://github.com/torukobyte)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord&v=2&layout=compact&hide=Markdown,Config,xml,yaml,json,cshtml,AUTO_DETECTED,Publish+Profile+file)](https://github.com/torukobyte)
 
 
   <p>
   <a href="https://github.com/torukobyte?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torukobyte&hide=python&layout=compact&show_icons=true&theme=nord">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torukobyte&layout=compact&show_icons=true&theme=nord">
   </a>
   </p>
 
