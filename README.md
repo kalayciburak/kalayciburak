@@ -75,7 +75,7 @@
   </a>
   </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord&v=2&layout=compact&hide=Markdown,Config,xml,yaml,json,cshtml,AUTO_DETECTED,Publish+Profile+file)](https://github.com/torukobyte)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord&v=2&layout=compact&hide=Markdown,Config,xml,yaml,json,Cocoa,Text,cshtml,Publish+Profile+file)](https://github.com/torukobyte)
 
 
   <p>
