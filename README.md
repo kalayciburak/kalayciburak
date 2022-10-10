@@ -3,7 +3,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/torukobyte?style=flat&logo=github)](https://github.com/torukobyte?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/torukobyte?style=flat&logo=github&)](https://github.com/torukobyte?tab=repositories)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=torukobyte.visitor-badge)](https://gitHub.com/torukobyte)
+<!--- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=torukobyte.visitor-badge)](https://gitHub.com/torukobyte) -->
 
 <img src="https://c.tenor.com/GKlLEY5omHwAAAAC/bored-anime.gif">
 <hr>
