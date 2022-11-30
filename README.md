@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/kalayciburak?style=flat&logo=github&)](https://github.com/kalayciburak?tab=repositories)
 <!--- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=kalayciburak.visitor-badge)](https://gitHub.com/kalayciburak) -->
 
-<img src="https://c.tenor.com/GKlLEY5omHwAAAAC/bored-anime.gif">
+<!-- <img src="https://c.tenor.com/GKlLEY5omHwAAAAC/bored-anime.gif"> -->
 <hr>
 
 
