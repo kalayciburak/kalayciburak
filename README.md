@@ -76,7 +76,7 @@
   </a>
   </p>
 
-<!--- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/kalayciburak) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/kalayciburak)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&duration=3000&pause=1000&color=88C0D0&background=2E3440&center=true&vCenter=true&width=750&height=70&lines=Sometimes+I+feel+so+alone%2C+I+just+don't+know;Feels+like+I+been+down+this+road+before;So+lonely+and+cold%2C+it's+like+something+takes+over+me;As+soon+as+I+go+home+and+close+the+door;Kinda+feels+like+d%C3%AAj%C3%A2+vu;I+wanna+get+away+from+this+place%2C+I+do;But+I+can't+and+I+won't%2C+say+I+try%2C+but+I+know+that's+a+lie;'Cause+I+don't+and+why%2C+I+just+don't+know)](https://youtu.be/NxkSEJ6Mv3M)
