@@ -87,5 +87,5 @@
   </a>
   </p> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalayciburak&theme=nord)](https://github.com/kalayciburak)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalayciburak&theme=nord)](https://github.com/kalayciburak)
 </div>
