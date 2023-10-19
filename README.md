@@ -7,9 +7,9 @@
   
 <!--- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=kalayciburak.visitor-badge)](https://gitHub.com/kalayciburak) -->
 
-<!--- <img src="https://c.tenor.com/GKlLEY5omHwAAAAC/bored-anime.gif"> -->
+<img src="https://c.tenor.com/GKlLEY5omHwAAAAC/bored-anime.gif">
 <!---  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl0cDR3bnBnZHV4cXVkMnJodDE0cDU1ZW5vNG92Y2xkMTRkcnNtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BY8ORoRpnJDXeBNwxg/giphy.gif"> -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh1M3NyZjhycnZ2N2o4bXQ0djdwNDVwMjV5eW5majV0d29rdmQ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/alQnNO5xMfVk6tyBHy/giphy.gif">
+<!---  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh1M3NyZjhycnZ2N2o4bXQ0djdwNDVwMjV5eW5majV0d29rdmQ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/alQnNO5xMfVk6tyBHy/giphy.gif"> -->
 <hr>
 
 
