@@ -5,21 +5,6 @@
 
 <br/>
 
-<a href="https://www.kalayciburak.com.tr">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=58A6FF&labelColor=161B22" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/kalayciburak">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" alt="LinkedIn"/>
-</a>
-<a href="mailto:kalayciburak1996@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22" alt="Gmail"/>
-</a>
-<a href="https://github.com/kalayciburak">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,redis,docker,react,ts,go,githubactions&perline=10" alt="stack"/>
 
 </div>
