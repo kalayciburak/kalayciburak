@@ -32,61 +32,43 @@
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3Akalayciburak">
+    <td align="center" width="16%">
+      <a href="https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/checkstyle.png" width="56" height="56" alt="checkstyle"/><br/>
         <b>checkstyle</b>
       </a>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/plantuml/plantuml/pulls?q=is%3Apr+author%3Akalayciburak">
+    <td align="center" width="16%">
+      <a href="https://github.com/plantuml/plantuml/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/plantuml.png" width="56" height="56" alt="plantuml"/><br/>
         <b>PlantUML</b>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="16%">
       <a href="https://github.com/mui/material-ui/pull/48880">
         <img src="https://github.com/mui.png" width="56" height="56" alt="mui"/><br/>
         <b>MUI</b>
       </a>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/spring-projects/spring-kafka/pull/4551">
-        <img src="https://github.com/spring-projects.png" width="56" height="56" alt="spring-kafka"/><br/>
-        <b>Spring Kafka</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/zalando/logbook/pull/2368">
-        <img src="https://github.com/zalando.png" width="56" height="56" alt="logbook"/><br/>
-        <b>Logbook</b>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/reactor/reactor-core/pull/4346">
-        <img src="https://github.com/reactor.png" width="56" height="56" alt="reactor"/><br/>
-        <b>Reactor</b>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/spring-projects/spring-modulith/pull/1785">
-        <img src="https://github.com/spring-projects.png" width="56" height="56" alt="modulith"/><br/>
-        <b>Spring Modulith</b>
-      </a>
-    </td>
-    <td align="center" width="25%">
+    <td align="center" width="16%">
       <a href="https://github.com/vernu/textbee/pull/268">
         <img src="https://github.com/vernu.png" width="56" height="56" alt="textbee"/><br/>
         <b>textbee</b>
       </a>
     </td>
+    <td align="center" width="16%">
+      <a href="https://github.com/AzazelSensei/AIGram/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
+        <img src="https://github.com/AzazelSensei.png" width="56" height="56" alt="aigram"/><br/>
+        <b>AIGram</b>
+      </a>
+    </td>
+    <td align="center" width="16%">
+      <a href="https://github.com/kodlamaio-projects/nArchitecture/pull/6">
+        <img src="https://github.com/kodlamaio-projects.png" width="56" height="56" alt="nArchitecture"/><br/>
+        <b>nArchitecture</b>
+      </a>
+    </td>
   </tr>
 </table>
-
-<sub>
-  mapstruct · spotless · quartz · flyingsaucer · spring-ldap · jimmer
-</sub>
 
 </div>
