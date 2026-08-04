@@ -1,98 +1,255 @@
-<!-- ![GitHub stars](https://img.shields.io/github/stars/kalayciburak?style=social) -->
+<!--
+  Profile README — kalayciburak
+  Clean, professional layout. Stats widgets are third-party (github-readme-stats).
+-->
+
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/kalayciburak?style=flat&logo=github)](https://github.com/kalayciburak?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/kalayciburak?style=flat&logo=github&)](https://github.com/kalayciburak?tab=repositories)
-  
-  
-<!--- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=kalayciburak.visitor-badge)](https://gitHub.com/kalayciburak) -->
+# Burak Kalaycı
 
-<!---  <img src="https://c.tenor.com/GKlLEY5omHwAAAAC/bored-anime.gif"> -->
-<!---  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl0cDR3bnBnZHV4cXVkMnJodDE0cDU1ZW5vNG92Y2xkMTRkcnNtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BY8ORoRpnJDXeBNwxg/giphy.gif"> -->
-<!---  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh1M3NyZjhycnZ2N2o4bXQ0djdwNDVwMjV5eW5majV0d29rdmQ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/alQnNO5xMfVk6tyBHy/giphy.gif"> -->
-<!-- <hr> -->
+**Backend-focused Full-Stack Engineer** · Java · Spring Boot · Microservices
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-kalayciburak.com.tr-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kalayciburak.com.tr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kalayciburak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalayciburak/)
+[![GitHub](https://img.shields.io/badge/GitHub-kalayciburak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalayciburak)
+[![Email](https://img.shields.io/badge/Email-kalayciburak1996%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalayciburak1996@gmail.com)
 
-[//]: # (## ⬇️ Contact me via these platforms!)
+<br/>
 
-[//]: # ()
-[//]: # (<a href="https://www.twitter.com/torukobyte" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171179-f237f180-a710-11eb-9ff4-3b3935c74d44.png" width="55px"></img></a>)
+[![Followers](https://img.shields.io/github/followers/kalayciburak?label=Followers&style=flat-square&logo=github&color=238636)](https://github.com/kalayciburak?tab=followers)
+[![Stars](https://img.shields.io/github/stars/kalayciburak?affiliations=OWNER&label=Stars&style=flat-square&logo=github&color=1f6feb)](https://github.com/kalayciburak?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=kalayciburak&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/kalayciburak)
 
-[//]: # (<a href="https://www.linkedin.com/in/kalayciburak" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x"></img></a>)
-
-[//]: # (<a href="https://www.instagram.com/torukobyte" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116333770-b702f480-a7dc-11eb-8654-0378659e4719.png" width="55px"></img></a>)
-
-[//]: # (<a href="mailto:kalayciburak1996@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>)
-
-<!--
-<a href="https://www.twitter.com/torukobyte/" target="_blank" rel="nofollow"><img alt="Burak's Linkedin" src="https://img.shields.io/badge/Twitter-1DA1F2??style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/torukobyte/" target="_blank" rel="nofollow"><img alt="Burak's Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2??style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:torukobyte@gmail.com" target="_blank" rel="nofollow"><img alt="Burak's Mail Address" src="https://img.shields.io/badge/Gmail-F14236??style=flat-square&logo=gmail&logoColor=white" /></a>
--->
-
-
-<!--
-<img src="https://img.shields.io/badge/Python-0b8056??style=flat-square&logo=python&logoColor=white"></img>
-<img src="https://img.shields.io/badge/C%23-953DAC??style=flat-square&logo=c-sharp&logoColor=white"></img>
-<img src="https://img.shields.io/badge/JavaScript-EFD81D??style=flat-square&logo=javascript&logoColor=black"></img>
-<img src="https://img.shields.io/badge/Java-9E0000??style=flat-square&logo=java&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Ionic-5291FF??style=flat-square&logo=ionic&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Flutter-015496??style=flat-square&logo=flutter&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Dart-183B55??style=flat-square&logo=dart&logoColor=white"></img>
-<img src="https://img.shields.io/badge/TypeScript-2F74C0??style=flat-square&logo=typescript&logoColor=white"></img>
-<img src="https://img.shields.io/badge/.Net-6B18E7??style=flat-square&logo=.net&logoColor=white"></img>
-<img src="https://img.shields.io/badge/PHP-8892BF??style=flat-square&logo=php&logoColor=white"></img>
-<img src="https://img.shields.io/badge/CSS-0B75C2??style=flat-square&logo=css3&logoColor=white"></img>
-<img src="https://img.shields.io/badge/HTML5-DD4B25??style=flat-square&logo=html5&logoColor=white"></img>
--->
-
-<!--
-<a href="https://www.java.com/"><img src="https://user-images.githubusercontent.com/61664693/116169128-b3a03800-a70c-11eb-8fbe-55a5c4ad2689.png" width="70px"></img></a>
-<a href="https://spring.io/" ><img src="https://user-images.githubusercontent.com/61664693/117315252-3012e380-ae90-11eb-9b64-1e3affd3b07d.png" width="70px"></img></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://user-images.githubusercontent.com/61664693/116169150-b6029200-a70c-11eb-9921-7069d54849ae.png" width="70px"></img></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/"><img src="https://user-images.githubusercontent.com/61664693/116169144-b569fb80-a70c-11eb-8e31-211ff32c07b5.png" width="70px"></img></a>
-<a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/61664693/116169127-b307a180-a70c-11eb-9097-06d1f280065e.png" width="70px"></img></a>
-<a href="https://www.javascript.com/"><img src="https://user-images.githubusercontent.com/61664693/116169142-b569fb80-a70c-11eb-8de0-029cbc2b2aef.png" width="70px"></img></a>
-<a href="https://www.typescriptlang.org/"><img src="https://user-images.githubusercontent.com/61664693/116169149-b6029200-a70c-11eb-9169-e68b84f77b9c.png" width="70px"></img></a>
-<a href="https://reactjs.org/" ><img src="https://user-images.githubusercontent.com/61664693/116169130-b3a03800-a70c-11eb-9a72-bc4842458b80.png" width="70px"></img></a>
-<a href="https://flutter.dev/"><img src="https://user-images.githubusercontent.com/61664693/116169134-b438ce80-a70c-11eb-9029-35fbfdd926ae.png" width="70px"></img></a>
-<a href="https://dart.dev/" ><img src="https://user-images.githubusercontent.com/61664693/116169151-b69b2880-a70c-11eb-9b5f-d6963d384b83.png" width="70px"></img></a> -->
-<!--  <a href="https://angular.io/" ><img src="https://user-images.githubusercontent.com/61664693/116169133-b438ce80-a70c-11eb-8e91-4d57e3f94851.png" width="40px"></img></a> -->
-<!--  <a href="https://nodejs.org/en/" ><img src="https://user-images.githubusercontent.com/61664693/116169136-b4d16500-a70c-11eb-8418-48daba4e08ef.png" width="40px"></img></a> -->
-<!-- <a href="https://golang.org/"><img src="https://user-images.githubusercontent.com/61664693/130692276-856d310d-e033-4df0-bafb-cf999bf40aa5.png" width="40px"></img></a> -->
-<!-- <a href="https://ionicframework.com/"><img src="https://user-images.githubusercontent.com/61664693/116169148-b6029200-a70c-11eb-8747-163f97723dc4.png" width="40px"></img></a> -->
-<!-- <a href="https://firebase.google.com/" ><img src="https://user-images.githubusercontent.com/61664693/116169154-b69b2880-a70c-11eb-8220-18127bb1e9a8.png" width="40px"></img></a> -->
-<!-- <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://user-images.githubusercontent.com/61664693/116169139-b569fb80-a70c-11eb-8df4-4fa9be0bebe3.png" width="40px"></img></a> -->
-<!-- <a href="https://www.php.net/"><img src="https://user-images.githubusercontent.com/61664693/116169129-b3a03800-a70c-11eb-82ec-4586e8f751e9.png" width="40px"></img></a> -->
-<!-- <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://user-images.githubusercontent.com/61664693/116169137-b4d16500-a70c-11eb-86b9-304ea63ba9d1.png" width="40px"></img></a> -->
-<!-- <hr> -->
-<!--
-<p align="center">
-  <p>
-    <a href="https://github.com/kalayciburak" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=kalayciburak&count_private=true&show_icons=true&theme=nord">
-      </a>
-</p>
-  <p>
-  <a href="https://github.com/kalayciburak" target="_blank">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kalayciburak&theme=nord&date_format=j%20M%5B%20Y%5D" />
-  </a>
-  </p>
- -->
-
- <!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/kalayciburak)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&duration=3000&pause=1000&color=88C0D0&background=2E3440&center=true&vCenter=true&width=750&height=70&lines=Sometimes+I+feel+so+alone%2C+I+just+don't+know;Feels+like+I+been+down+this+road+before;So+lonely+and+cold%2C+it's+like+something+takes+over+me;As+soon+as+I+go+home+and+close+the+door;Kinda+feels+like+d%C3%AAj%C3%A2+vu;I+wanna+get+away+from+this+place%2C+I+do;But+I+can't+and+I+won't%2C+say+I+try%2C+but+I+know+that's+a+lie;'Cause+I+don't+and+why%2C+I+just+don't+know)](https://youtu.be/NxkSEJ6Mv3M)
- -->
-  <!-- <p>
-  <a href="https://github.com/kalayciburak?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalayciburak&layout=compact&show_icons=true&theme=nord">
-  </a>
-  </p> -->
-
-<!--
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalayciburak&theme=nord)](https://github.com/kalayciburak)
 </div>
--->
+
+---
+
+### About
+
+Software engineer specializing in **backend systems** and **distributed architectures**.  
+Currently building production systems in healthcare (MHRS). Previously instructor & mentor (Kodlamaio).
+
+I care about **clean boundaries**, **observable services**, and **DX that survives production** — not demo-only code.
+
+**Focus areas**
+- Spring Boot / Spring Security / JPA
+- Event-driven microservices (Kafka, CDC, transactional outbox)
+- AuthN/Z (OAuth2, JWT, Keycloak)
+- PostgreSQL · Redis · Docker · CI/CD
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kalayciburak/HRMS_Spring">HRMS_Spring</a></h3>
+      <p>Human resource management backend — Spring ecosystem, layered architecture, job/candidate domain.</p>
+      <p>
+        <img alt="stars" src="https://img.shields.io/github/stars/kalayciburak/HRMS_Spring?style=flat-square"/>
+        <img alt="lang" src="https://img.shields.io/badge/Java-b07219?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kalayciburak/Kodlama.io.Devs">Kodlama.io.Devs</a></h3>
+      <p>Platform connecting developer skills with employers — clean architecture & Spring Boot practices.</p>
+      <p>
+        <img alt="stars" src="https://img.shields.io/github/stars/kalayciburak/Kodlama.io.Devs?style=flat-square"/>
+        <img alt="lang" src="https://img.shields.io/badge/Java-b07219?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kalayciburak/auth-service">auth-service</a></h3>
+      <p>Enterprise auth service: RS256 JWT, JWKS, Redis blacklist, Vault, Graylog, Docker-ready.</p>
+      <p>
+        <img alt="stars" src="https://img.shields.io/github/stars/kalayciburak/auth-service?style=flat-square"/>
+        <img alt="lang" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kalayciburak/ai-debug-assistant">ai-debug-assistant</a></h3>
+      <p>Spring Boot library that turns exceptions into multi-language explanations and actionable fixes.</p>
+      <p>
+        <img alt="stars" src="https://img.shields.io/github/stars/kalayciburak/ai-debug-assistant?style=flat-square"/>
+        <img alt="lang" src="https://img.shields.io/badge/Java-b07219?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kalayciburak/e-commerce">e-commerce</a></h3>
+      <p>Teaching-focused microservice ecosystem — Kafka events, Keycloak security, Spring Cloud, Docker.</p>
+      <p>
+        <img alt="stars" src="https://img.shields.io/github/stars/kalayciburak/e-commerce?style=flat-square"/>
+        <img alt="lang" src="https://img.shields.io/badge/Microservices-231F20?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kalayciburak/lx">lx</a></h3>
+      <p>Terminal log triage TUI — regex filter, annotate, collapse noise, jump timestamps, copy clean snippets.</p>
+      <p>
+        <img alt="stars" src="https://img.shields.io/github/stars/kalayciburak/lx?style=flat-square"/>
+        <img alt="lang" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+
+| Repo | Stack | Highlights |
+|------|--------|------------|
+| [HRMS_React](https://github.com/kalayciburak/HRMS_React) | React | HRMS frontend companion |
+| [rent-a-car](https://github.com/kalayciburak/rent-a-car) | Java 21 · Spring Boot 3 | Kafka · Keycloak · Graylog |
+| [coolify-dashboard](https://github.com/kalayciburak/coolify-dashboard) | Node · React | Multi-lang Coolify monitoring UI |
+| [microservices](https://github.com/kalayciburak/microservices) | Spring Boot | Event-driven reference layout |
+| [common-package](https://github.com/kalayciburak/common-package) | Maven · Spring | Shared helpers across services |
+
+</details>
+
+---
+
+### Open Source Contributions
+
+Selected merged / high-signal work across the Java & web ecosystem:
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/checkstyle/checkstyle">
+        <img src="https://github.com/checkstyle.png" width="48" height="48" alt="checkstyle"/><br/>
+        <b>checkstyle</b>
+      </a>
+      <br/><sub>Static analysis · Java</sub>
+      <br/><a href="https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3Akalayciburak">PRs</a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/plantuml/plantuml">
+        <img src="https://github.com/plantuml.png" width="48" height="48" alt="plantuml"/><br/>
+        <b>PlantUML</b>
+      </a>
+      <br/><sub>Diagramming · SVG/JS</sub>
+      <br/><a href="https://github.com/plantuml/plantuml/pulls?q=is%3Apr+author%3Akalayciburak">PRs</a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/mui/material-ui">
+        <img src="https://github.com/mui.png" width="48" height="48" alt="mui"/><br/>
+        <b>MUI</b>
+      </a>
+      <br/><sub>React component lib</sub>
+      <br/><a href="https://github.com/mui/material-ui/pull/48880">#48880</a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/vernu/textbee">
+        <img src="https://github.com/vernu.png" width="48" height="48" alt="textbee"/><br/>
+        <b>textbee</b>
+      </a>
+      <br/><sub>SMS gateway · web</sub>
+      <br/><a href="https://github.com/vernu/textbee/pull/268">#268</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/spring-projects/spring-kafka">
+        <img src="https://github.com/spring-projects.png" width="48" height="48" alt="spring"/><br/>
+        <b>Spring Kafka</b>
+      </a>
+      <br/><sub>Error handler fix</sub>
+      <br/><a href="https://github.com/spring-projects/spring-kafka/pull/4551">#4551</a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/zalando/logbook">
+        <img src="https://github.com/zalando.png" width="48" height="48" alt="logbook"/><br/>
+        <b>Logbook</b>
+      </a>
+      <br/><sub>RestClient interceptor</sub>
+      <br/><a href="https://github.com/zalando/logbook/pull/2368">#2368</a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/reactor/reactor-core">
+        <img src="https://github.com/reactor.png" width="48" height="48" alt="reactor"/><br/>
+        <b>Reactor Core</b>
+      </a>
+      <br/><sub>MonoSingle edge case</sub>
+      <br/><a href="https://github.com/reactor/reactor-core/pull/4346">#4346</a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/spring-projects/spring-modulith">
+        <img src="https://github.com/spring-projects.png" width="48" height="48" alt="modulith"/><br/>
+        <b>Spring Modulith</b>
+      </a>
+      <br/><sub>Docs / boundaries</sub>
+      <br/><a href="https://github.com/spring-projects/spring-modulith/pull/1785">#1785</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>More OSS activity</b></summary>
+
+- [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct/pull/4099) — decorator unused field
+- [diffplug/spotless](https://github.com/diffplug/spotless/pull/3009) — Maven skip properties docs
+- [quartz-scheduler/quartz](https://github.com/quartz-scheduler/quartz/pull/1496) — JDBC trigger replace
+- [flyingsaucerproject/flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer/pull/698) — server-relative CSS URLs
+- [spring-projects/spring-ldap](https://github.com/spring-projects/spring-ldap/pull/1584) — Assert migration
+- [babyfish-ct/jimmer](https://github.com/babyfish-ct/jimmer/pull/1475) — DTO diagnostic message
+
+</details>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kalayciburak&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=238636" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalayciburak&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalayciburak&theme=transparent&hide_border=true&ring=238636&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalayciburak&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+</div>
+
+---
+
+### Currently
+
+- Shipping production backend on **MHRS** (healthcare)
+- Open-source contributions in the **Spring / Java** ecosystem
+- Side tools for **DX & ops** (log triage, auth patterns, local diagnostics)
+
+---
+
+<div align="center">
+
+**Building reliable backends.** Open to collaboration on Spring / distributed systems.
+
+[Portfolio](https://www.kalayciburak.com.tr) · [LinkedIn](https://www.linkedin.com/in/kalayciburak/) · [Email](mailto:kalayciburak1996@gmail.com)
+
+</div>
