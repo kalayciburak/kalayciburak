@@ -36,11 +36,22 @@
       </a>
     </td>
     <td align="center" width="25%">
+      <a href="https://github.com/quartz-scheduler/quartz/pull/1496">
+        <img src="https://github.com/quartz-scheduler.png" width="56" height="56" alt="Quartz"/><br/>
+        <b>Quartz</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
       <a href="https://github.com/vernu/textbee/pull/268">
         <img src="https://github.com/vernu.png" width="56" height="56" alt="textbee"/><br/>
         <b>textbee</b>
       </a>
     </td>
+    <td align="center" width="25%"></td>
+    <td align="center" width="25%"></td>
+    <td align="center" width="25%"></td>
   </tr>
 </table>
 
