@@ -55,8 +55,18 @@
         <b>eo</b>
       </a>
     </td>
-    <td align="center" width="25%"></td>
-    <td align="center" width="25%"></td>
+    <td align="center" width="25%">
+      <a href="https://github.com/kodlamaio-projects/nArchitecture/pull/6">
+        <img src="https://github.com/kodlamaio-projects.png" width="56" height="56" alt="nArchitecture"/><br/>
+        <b>nArchitecture</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/greenmail-mail-test/greenmail/pull/1046">
+        <img src="https://github.com/greenmail-mail-test.png" width="56" height="56" alt="GreenMail"/><br/>
+        <b>GreenMail</b>
+      </a>
+    </td>
   </tr>
 </table>
 
