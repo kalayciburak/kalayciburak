@@ -24,7 +24,7 @@
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/plantuml/plantuml/pull/2798">
+      <a href="https://github.com/plantuml/plantuml/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/plantuml.png" width="56" height="56" alt="PlantUML"/><br/>
         <b>PlantUML</b>
       </a>
@@ -49,7 +49,12 @@
         <b>textbee</b>
       </a>
     </td>
-    <td align="center" width="25%"></td>
+    <td align="center" width="25%">
+      <a href="https://github.com/objectionary/eo/pull/6391">
+        <img src="https://github.com/objectionary.png" width="56" height="56" alt="eo"/><br/>
+        <b>eo</b>
+      </a>
+    </td>
     <td align="center" width="25%"></td>
     <td align="center" width="25%"></td>
   </tr>
