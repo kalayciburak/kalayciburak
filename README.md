@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,redis,docker,react,ts,go,githubactions&perline=10" alt="stack"/>
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,redis,docker,react,ts,go&perline=10" alt="stack"/>
 
 </div>
 
