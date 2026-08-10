@@ -42,9 +42,15 @@
       </a>
     </td>
     <td align="center" width="12%">
-      <a href="https://github.com/vernu/textbee/pull/268">
-        <img src="https://github.com/vernu.png" width="48" height="48" alt="textbee"/><br/>
+      <a href="https://github.com/textbee/textbee/pull/268">
+        <img src="https://github.com/textbee.png" width="48" height="48" alt="textbee"/><br/>
         <b>textbee</b>
+      </a>
+    </td>
+    <td align="center" width="12%">
+      <a href="https://github.com/spring-projects/spring-kafka/pull/4551">
+        <img src="https://github.com/spring-projects.png" width="48" height="48" alt="Spring Kafka"/><br/>
+        <b>Spring Kafka</b>
       </a>
     </td>
     <td align="center" width="12%">
