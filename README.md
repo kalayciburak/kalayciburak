@@ -30,6 +30,12 @@
       </a>
     </td>
     <td align="center" width="12%">
+      <a href="https://github.com/OpenFeign/feign/pull/3508">
+        <img src="https://github.com/OpenFeign.png" width="48" height="48" alt="feign"/><br/>
+        <b>feign</b>
+      </a>
+    </td>
+    <td align="center" width="12%">
       <a href="https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/checkstyle.png" width="48" height="48" alt="checkstyle"/><br/>
         <b>checkstyle</b>
@@ -42,6 +48,12 @@
       </a>
     </td>
     <td align="center" width="12%">
+      <a href="https://github.com/openrewrite/rewrite/pull/8441">
+        <img src="https://github.com/openrewrite.png" width="48" height="48" alt="rewrite"/><br/>
+        <b>rewrite</b>
+      </a>
+    </td>
+    <td align="center" width="12%">
       <a href="https://github.com/textbee/textbee/pull/268">
         <img src="https://github.com/textbee.png" width="48" height="48" alt="textbee"/><br/>
         <b>textbee</b>
@@ -51,18 +63,6 @@
       <a href="https://github.com/spring-projects/spring-kafka/pull/4551">
         <img src="https://github.com/spring-projects.png" width="48" height="48" alt="Spring Kafka"/><br/>
         <b>Spring Kafka</b>
-      </a>
-    </td>
-    <td align="center" width="12%">
-      <a href="https://github.com/objectionary/eo/pull/6391">
-        <img src="https://github.com/objectionary.png" width="48" height="48" alt="eo"/><br/>
-        <b>eo</b>
-      </a>
-    </td>
-    <td align="center" width="12%">
-      <a href="https://github.com/greenmail-mail-test/greenmail/pull/1046">
-        <img src="https://github.com/greenmail-mail-test.png" width="48" height="48" alt="GreenMail"/><br/>
-        <b>GreenMail</b>
       </a>
     </td>
   </tr>
