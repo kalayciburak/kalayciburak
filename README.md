@@ -48,6 +48,12 @@
       </a>
     </td>
     <td align="center" width="10%">
+      <a href="https://github.com/micrometer-metrics/micrometer/pull/7816">
+        <img src="https://github.com/micrometer-metrics.png" width="44" height="44" alt="micrometer"/><br/>
+        <b>micrometer</b>
+      </a>
+    </td>
+    <td align="center" width="10%">
       <a href="https://github.com/openrewrite/rewrite/pull/8441">
         <img src="https://github.com/openrewrite.png" width="44" height="44" alt="rewrite"/><br/>
         <b>rewrite</b>
@@ -65,6 +71,14 @@
         <b>Spring Kafka</b>
       </a>
     </td>
+    <td align="center" width="10%">
+      <a href="https://github.com/spring-projects/spring-integration/pull/11259">
+        <img src="https://github.com/spring-projects.png" width="44" height="44" alt="spring-integration"/><br/>
+        <b>spring-integration</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="10%">
       <a href="https://github.com/objectionary/eo/pull/6391">
         <img src="https://github.com/objectionary.png" width="44" height="44" alt="eo"/><br/>
