@@ -30,6 +30,12 @@
       </a>
     </td>
     <td align="center" width="10%">
+      <a href="https://github.com/redis/jedis/pull/4683">
+        <img src="https://github.com/redis.png" width="44" height="44" alt="jedis"/><br/>
+        <b>jedis</b>
+      </a>
+    </td>
+    <td align="center" width="10%">
       <a href="https://github.com/OpenFeign/feign/pull/3508">
         <img src="https://github.com/OpenFeign.png" width="44" height="44" alt="feign"/><br/>
         <b>feign</b>
@@ -71,14 +77,14 @@
         <b>Spring Kafka</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="10%">
       <a href="https://github.com/spring-projects/spring-integration/pull/11259">
         <img src="https://github.com/spring-projects.png" width="44" height="44" alt="spring-integration"/><br/>
         <b>spring-integration</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="10%">
       <a href="https://github.com/objectionary/eo/pull/6391">
         <img src="https://github.com/objectionary.png" width="44" height="44" alt="eo"/><br/>
