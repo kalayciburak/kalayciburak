@@ -54,13 +54,19 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/diffplug/spotless/pull/3009">
+        <img src="https://github.com/diffplug.png" width="52" height="52" alt="Spotless"/><br/>
+        <b>Spotless</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="14%">
       <a href="https://github.com/micrometer-metrics/micrometer/pull/7816">
         <img src="https://github.com/micrometer-metrics.png" width="52" height="52" alt="micrometer"/><br/>
         <b>micrometer</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/openrewrite/rewrite/pull/8441">
         <img src="https://github.com/openrewrite.png" width="52" height="52" alt="rewrite"/><br/>
@@ -80,6 +86,12 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/testng-team/testng/pull/3373">
+        <img src="https://github.com/testng-team.png" width="52" height="52" alt="testng"/><br/>
+        <b>testng</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-integration/pull/11259">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-integration"/><br/>
         <b>spring-integration</b>
@@ -89,6 +101,14 @@
       <a href="https://github.com/objectionary/eo/pull/6391">
         <img src="https://github.com/objectionary.png" width="52" height="52" alt="eo"/><br/>
         <b>eo</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="14%">
+      <a href="https://github.com/networknt/json-schema-validator/pull/1272">
+        <img src="https://github.com/networknt.png" width="52" height="52" alt="json-schema-validator"/><br/>
+        <b>json-schema-validator</b>
       </a>
     </td>
     <td align="center" width="14%">
