@@ -54,7 +54,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/diffplug/spotless/pull/3009">
+      <a href="https://github.com/diffplug/spotless/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/diffplug.png" width="52" height="52" alt="Spotless"/><br/>
         <b>Spotless</b>
       </a>
@@ -86,7 +86,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/testng-team/testng/pull/3373">
+      <a href="https://github.com/testng-team/testng/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/testng-team.png" width="52" height="52" alt="testng"/><br/>
         <b>testng</b>
       </a>
@@ -98,13 +98,19 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/javers/javers/pull/1498">
+        <img src="https://github.com/javers.png" width="52" height="52" alt="javers"/><br/>
+        <b>javers</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="14%">
       <a href="https://github.com/objectionary/eo/pull/6391">
         <img src="https://github.com/objectionary.png" width="52" height="52" alt="eo"/><br/>
         <b>eo</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/networknt/json-schema-validator/pull/1272">
         <img src="https://github.com/networknt.png" width="52" height="52" alt="json-schema-validator"/><br/>
