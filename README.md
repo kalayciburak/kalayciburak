@@ -24,6 +24,12 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/redisson/redisson/pull/7303">
+        <img src="https://github.com/redisson.png" width="52" height="52" alt="redisson"/><br/>
+        <b>redisson</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/plantuml/plantuml/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/plantuml.png" width="52" height="52" alt="PlantUML"/><br/>
         <b>PlantUML</b>
@@ -53,14 +59,14 @@
         <b>Quartz</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/diffplug/spotless/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/diffplug.png" width="52" height="52" alt="Spotless"/><br/>
         <b>Spotless</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/micrometer-metrics/micrometer/pull/7816">
         <img src="https://github.com/micrometer-metrics.png" width="52" height="52" alt="micrometer"/><br/>
@@ -86,9 +92,23 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/flyingsaucerproject/flyingsaucer/pull/698">
+        <img src="https://github.com/flyingsaucerproject.png" width="52" height="52" alt="Flying Saucer"/><br/>
+        <b>Flying Saucer</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/testng-team/testng/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/testng-team.png" width="52" height="52" alt="testng"/><br/>
         <b>testng</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="14%">
+      <a href="https://github.com/babyfish-ct/jimmer/pull/1475">
+        <img src="https://github.com/babyfish-ct.png" width="52" height="52" alt="Jimmer"/><br/>
+        <b>Jimmer</b>
       </a>
     </td>
     <td align="center" width="14%">
@@ -103,8 +123,6 @@
         <b>javers</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/objectionary/eo/pull/6391">
         <img src="https://github.com/objectionary.png" width="52" height="52" alt="eo"/><br/>
