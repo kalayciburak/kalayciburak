@@ -68,6 +68,12 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/line/armeria/pull/6921">
+        <img src="https://github.com/line.png" width="52" height="52" alt="armeria"/><br/>
+        <b>armeria</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/micrometer-metrics/micrometer/pull/7816">
         <img src="https://github.com/micrometer-metrics.png" width="52" height="52" alt="micrometer"/><br/>
         <b>micrometer</b>
@@ -97,14 +103,14 @@
         <b>Flying Saucer</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/testng-team/testng/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/testng-team.png" width="52" height="52" alt="testng"/><br/>
         <b>testng</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/babyfish-ct/jimmer/pull/1475">
         <img src="https://github.com/babyfish-ct.png" width="52" height="52" alt="Jimmer"/><br/>
@@ -124,7 +130,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/objectionary/eo/pull/6391">
+      <a href="https://github.com/objectionary/eo/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/objectionary.png" width="52" height="52" alt="eo"/><br/>
         <b>eo</b>
       </a>
@@ -141,6 +147,8 @@
         <b>equalsverifier</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/greenmail-mail-test/greenmail/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/greenmail-mail-test.png" width="52" height="52" alt="GreenMail"/><br/>
