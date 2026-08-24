@@ -24,6 +24,12 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/keycloak/keycloak/pull/51794">
+        <img src="https://github.com/keycloak.png" width="52" height="52" alt="keycloak"/><br/>
+        <b>keycloak</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/redisson/redisson/pull/7303">
         <img src="https://github.com/redisson.png" width="52" height="52" alt="redisson"/><br/>
         <b>redisson</b>
@@ -53,14 +59,14 @@
         <b>checkstyle</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/testcontainers/testcontainers-java/pull/11970">
         <img src="https://github.com/testcontainers.png" width="52" height="52" alt="testcontainers-java"/><br/>
         <b>testcontainers-java</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/quartz-scheduler/quartz/pull/1496">
         <img src="https://github.com/quartz-scheduler.png" width="52" height="52" alt="Quartz"/><br/>
@@ -97,14 +103,14 @@
         <b>textbee</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-kafka/pull/4551">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="Spring Kafka"/><br/>
         <b>Spring Kafka</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/flyingsaucerproject/flyingsaucer/pull/698">
         <img src="https://github.com/flyingsaucerproject.png" width="52" height="52" alt="Flying Saucer"/><br/>
@@ -141,14 +147,14 @@
         <b>eo</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/networknt/json-schema-validator/pull/1272">
         <img src="https://github.com/networknt.png" width="52" height="52" alt="json-schema-validator"/><br/>
         <b>json-schema-validator</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/jqno/equalsverifier/pull/1232">
         <img src="https://github.com/jqno.png" width="52" height="52" alt="equalsverifier"/><br/>
