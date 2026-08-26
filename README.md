@@ -74,6 +74,12 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/javaparser/javaparser/pull/5100">
+        <img src="https://github.com/javaparser.png" width="52" height="52" alt="javaparser"/><br/>
+        <b>javaparser</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/diffplug/spotless/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/diffplug.png" width="52" height="52" alt="Spotless"/><br/>
         <b>Spotless</b>
@@ -97,14 +103,14 @@
         <b>rewrite</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/textbee/textbee/pull/268">
         <img src="https://github.com/textbee.png" width="52" height="52" alt="textbee"/><br/>
         <b>textbee</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-kafka/pull/4551">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="Spring Kafka"/><br/>
@@ -130,7 +136,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/spring-projects/spring-integration/pull/11259">
+      <a href="https://github.com/spring-projects/spring-integration/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-integration"/><br/>
         <b>spring-integration</b>
       </a>
@@ -141,14 +147,14 @@
         <b>javers</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/objectionary/eo/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/objectionary.png" width="52" height="52" alt="eo"/><br/>
         <b>eo</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/networknt/json-schema-validator/pull/1272">
         <img src="https://github.com/networknt.png" width="52" height="52" alt="json-schema-validator"/><br/>
