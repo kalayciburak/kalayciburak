@@ -106,6 +106,12 @@
   </tr>
   <tr>
     <td align="center" width="14%">
+      <a href="https://github.com/apache/logging-log4j2/pull/4239">
+        <img src="https://github.com/apache.png" width="52" height="52" alt="Log4j2"/><br/>
+        <b>Log4j2</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/textbee/textbee/pull/268">
         <img src="https://github.com/textbee.png" width="52" height="52" alt="textbee"/><br/>
         <b>textbee</b>
@@ -141,14 +147,14 @@
         <b>spring-integration</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/javers/javers/pull/1498">
         <img src="https://github.com/javers.png" width="52" height="52" alt="javers"/><br/>
         <b>javers</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/objectionary/eo/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/objectionary.png" width="52" height="52" alt="eo"/><br/>
