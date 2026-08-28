@@ -168,15 +168,15 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/jqno/equalsverifier/pull/1232">
-        <img src="https://github.com/jqno.png" width="52" height="52" alt="equalsverifier"/><br/>
-        <b>equalsverifier</b>
-      </a>
-    </td>
-    <td align="center" width="14%">
       <a href="https://github.com/greenmail-mail-test/greenmail/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/greenmail-mail-test.png" width="52" height="52" alt="GreenMail"/><br/>
         <b>GreenMail</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
+      <a href="https://github.com/jqno/equalsverifier/pull/1232">
+        <img src="https://github.com/jqno.png" width="52" height="52" alt="equalsverifier"/><br/>
+        <b>equalsverifier</b>
       </a>
     </td>
   </tr>
