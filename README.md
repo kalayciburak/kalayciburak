@@ -86,6 +86,12 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/apache/maven/pull/12722">
+        <img src="https://github.com/apache.png" width="52" height="52" alt="maven"/><br/>
+        <b>maven</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/line/armeria/pull/6921">
         <img src="https://github.com/line.png" width="52" height="52" alt="armeria"/><br/>
         <b>armeria</b>
@@ -97,14 +103,14 @@
         <b>micrometer</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/openrewrite/rewrite/pull/8441">
         <img src="https://github.com/openrewrite.png" width="52" height="52" alt="rewrite"/><br/>
         <b>rewrite</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/logging-log4j2/pull/4239">
         <img src="https://github.com/apache.png" width="52" height="52" alt="Log4j2"/><br/>
@@ -141,14 +147,14 @@
         <b>Jimmer</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-integration/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-integration"/><br/>
         <b>spring-integration</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/javers/javers/pull/1498">
         <img src="https://github.com/javers.png" width="52" height="52" alt="javers"/><br/>
