@@ -86,7 +86,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/apache/maven/pull/12722">
+      <a href="https://github.com/apache/maven/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/apache.png" width="52" height="52" alt="maven"/><br/>
         <b>maven</b>
       </a>
