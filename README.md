@@ -74,7 +74,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/javaparser/javaparser/pull/5100">
+      <a href="https://github.com/javaparser/javaparser/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/javaparser.png" width="52" height="52" alt="javaparser"/><br/>
         <b>javaparser</b>
       </a>
