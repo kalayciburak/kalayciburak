@@ -92,19 +92,25 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/pmd/pmd/pull/6935">
+        <img src="https://github.com/pmd.png" width="52" height="52" alt="pmd"/><br/>
+        <b>pmd</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/apache/maven/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/apache.png" width="52" height="52" alt="maven"/><br/>
         <b>maven</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/line/armeria/pull/6921">
         <img src="https://github.com/line.png" width="52" height="52" alt="armeria"/><br/>
         <b>armeria</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/micrometer-metrics/micrometer/pull/7816">
         <img src="https://github.com/micrometer-metrics.png" width="52" height="52" alt="micrometer"/><br/>
@@ -141,14 +147,14 @@
         <b>textbee</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-kafka/pull/4551">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="Spring Kafka"/><br/>
         <b>Spring Kafka</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/flyingsaucerproject/flyingsaucer/pull/698">
         <img src="https://github.com/flyingsaucerproject.png" width="52" height="52" alt="Flying Saucer"/><br/>
@@ -185,14 +191,14 @@
         <b>eo</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/networknt/json-schema-validator/pull/1272">
         <img src="https://github.com/networknt.png" width="52" height="52" alt="json-schema-validator"/><br/>
         <b>json-schema-validator</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-amqp/pull/3610">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-amqp"/><br/>
