@@ -162,6 +162,12 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/open-telemetry/opentelemetry-java/pull/8746">
+        <img src="https://github.com/open-telemetry.png" width="52" height="52" alt="opentelemetry-java"/><br/>
+        <b>opentelemetry-java</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/flyingsaucerproject/flyingsaucer/pull/698">
         <img src="https://github.com/flyingsaucerproject.png" width="52" height="52" alt="Flying Saucer"/><br/>
         <b>Flying Saucer</b>
@@ -174,11 +180,19 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/spring-projects/spring-session/pull/3887">
+        <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-session"/><br/>
+        <b>spring-session</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/babyfish-ct/jimmer/pull/1475">
         <img src="https://github.com/babyfish-ct.png" width="52" height="52" alt="Jimmer"/><br/>
         <b>Jimmer</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-integration/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-integration"/><br/>
@@ -191,8 +205,6 @@
         <b>javers</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/objectionary/eo/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/objectionary.png" width="52" height="52" alt="eo"/><br/>
@@ -212,15 +224,15 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/jqno/equalsverifier/pull/1232">
-        <img src="https://github.com/jqno.png" width="52" height="52" alt="equalsverifier"/><br/>
-        <b>equalsverifier</b>
-      </a>
-    </td>
-    <td align="center" width="14%">
       <a href="https://github.com/greenmail-mail-test/greenmail/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/greenmail-mail-test.png" width="52" height="52" alt="GreenMail"/><br/>
         <b>GreenMail</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
+      <a href="https://github.com/jqno/equalsverifier/pull/1232">
+        <img src="https://github.com/jqno.png" width="52" height="52" alt="equalsverifier"/><br/>
+        <b>equalsverifier</b>
       </a>
     </td>
   </tr>
