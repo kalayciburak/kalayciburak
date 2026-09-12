@@ -156,7 +156,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/spring-projects/spring-kafka/pull/4551">
+      <a href="https://github.com/spring-projects/spring-kafka/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="Spring Kafka"/><br/>
         <b>Spring Kafka</b>
       </a>
