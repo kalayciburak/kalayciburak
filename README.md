@@ -142,7 +142,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/apache/logging-log4j2/pull/4239">
+      <a href="https://github.com/apache/logging-log4j2/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/apache.png" width="52" height="52" alt="Log4j2"/><br/>
         <b>Log4j2</b>
       </a>
