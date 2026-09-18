@@ -174,6 +174,12 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/FasterXML/jackson-core/pull/1719">
+        <img src="https://github.com/FasterXML.png" width="52" height="52" alt="jackson-core"/><br/>
+        <b>jackson-core</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/apache/poi/pull/1265">
         <img src="https://github.com/apache.png" width="52" height="52" alt="poi"/><br/>
         <b>poi</b>
@@ -185,14 +191,14 @@
         <b>Flying Saucer</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/testng-team/testng/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/testng-team.png" width="52" height="52" alt="testng"/><br/>
         <b>testng</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-session/pull/3887">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-session"/><br/>
@@ -229,14 +235,14 @@
         <b>json-schema-validator</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-amqp/pull/3610">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-amqp"/><br/>
         <b>spring-amqp</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/greenmail-mail-test/greenmail/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/greenmail-mail-test.png" width="52" height="52" alt="GreenMail"/><br/>
