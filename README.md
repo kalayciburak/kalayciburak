@@ -80,7 +80,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/micronaut-projects/micronaut-core/pull/13159">
+      <a href="https://github.com/micronaut-projects/micronaut-core/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/micronaut-projects.png" width="52" height="52" alt="micronaut-core"/><br/>
         <b>micronaut-core</b>
       </a>
