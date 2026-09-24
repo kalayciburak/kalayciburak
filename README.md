@@ -74,6 +74,12 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/wiremock/wiremock/pull/3595">
+        <img src="https://github.com/wiremock.png" width="52" height="52" alt="wiremock"/><br/>
+        <b>wiremock</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/quartz-scheduler/quartz/pull/1496">
         <img src="https://github.com/quartz-scheduler.png" width="52" height="52" alt="Quartz"/><br/>
         <b>Quartz</b>
@@ -97,14 +103,14 @@
         <b>Spotless</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/pmd/pmd/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/pmd.png" width="52" height="52" alt="pmd"/><br/>
         <b>pmd</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/maven/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/apache.png" width="52" height="52" alt="maven"/><br/>
@@ -141,14 +147,14 @@
         <b>rewrite</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/logging-log4j2/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/apache.png" width="52" height="52" alt="Log4j2"/><br/>
         <b>Log4j2</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/textbee/textbee/pull/268">
         <img src="https://github.com/textbee.png" width="52" height="52" alt="textbee"/><br/>
@@ -185,14 +191,14 @@
         <b>poi</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/flyingsaucerproject/flyingsaucer/pull/698">
         <img src="https://github.com/flyingsaucerproject.png" width="52" height="52" alt="Flying Saucer"/><br/>
         <b>Flying Saucer</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/testng-team/testng/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/testng-team.png" width="52" height="52" alt="testng"/><br/>
@@ -229,14 +235,14 @@
         <b>eo</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/networknt/json-schema-validator/pull/1272">
         <img src="https://github.com/networknt.png" width="52" height="52" alt="json-schema-validator"/><br/>
         <b>json-schema-validator</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-amqp/pull/3610">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-amqp"/><br/>
