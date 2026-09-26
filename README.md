@@ -62,6 +62,12 @@
   </tr>
   <tr>
     <td align="center" width="14%">
+      <a href="https://github.com/apache/shenyu/pull/7317">
+        <img src="https://github.com/apache.png" width="52" height="52" alt="shenyu"/><br/>
+        <b>shenyu</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/testcontainers/testcontainers-java/pull/11970">
         <img src="https://github.com/testcontainers.png" width="52" height="52" alt="testcontainers-java"/><br/>
         <b>testcontainers-java</b>
@@ -97,14 +103,14 @@
         <b>javaparser</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/diffplug/spotless/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/diffplug.png" width="52" height="52" alt="Spotless"/><br/>
         <b>Spotless</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/pmd/pmd/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/pmd.png" width="52" height="52" alt="pmd"/><br/>
@@ -141,14 +147,14 @@
         <b>jackson-databind</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/openrewrite/rewrite/pull/8441">
         <img src="https://github.com/openrewrite.png" width="52" height="52" alt="rewrite"/><br/>
         <b>rewrite</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/logging-log4j2/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/apache.png" width="52" height="52" alt="Log4j2"/><br/>
@@ -180,6 +186,14 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/apache/sedona/pull/3399">
+        <img src="https://github.com/apache.png" width="52" height="52" alt="sedona"/><br/>
+        <b>sedona</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="14%">
       <a href="https://github.com/FasterXML/jackson-core/pull/1719">
         <img src="https://github.com/FasterXML.png" width="52" height="52" alt="jackson-core"/><br/>
         <b>jackson-core</b>
@@ -191,8 +205,6 @@
         <b>poi</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/flyingsaucerproject/flyingsaucer/pull/698">
         <img src="https://github.com/flyingsaucerproject.png" width="52" height="52" alt="Flying Saucer"/><br/>
@@ -223,6 +235,8 @@
         <b>spring-integration</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/javers/javers/pull/1498">
         <img src="https://github.com/javers.png" width="52" height="52" alt="javers"/><br/>
@@ -235,8 +249,6 @@
         <b>eo</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/networknt/json-schema-validator/pull/1272">
         <img src="https://github.com/networknt.png" width="52" height="52" alt="json-schema-validator"/><br/>
