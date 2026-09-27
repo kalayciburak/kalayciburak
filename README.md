@@ -142,17 +142,17 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/FasterXML/jackson-databind/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
-        <img src="https://github.com/FasterXML.png" width="52" height="52" alt="jackson-databind"/><br/>
-        <b>jackson-databind</b>
+      <a href="https://github.com/openrewrite/rewrite/pull/8441">
+        <img src="https://github.com/openrewrite.png" width="52" height="52" alt="rewrite"/><br/>
+        <b>rewrite</b>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="14%">
-      <a href="https://github.com/openrewrite/rewrite/pull/8441">
-        <img src="https://github.com/openrewrite.png" width="52" height="52" alt="rewrite"/><br/>
-        <b>rewrite</b>
+      <a href="https://github.com/FasterXML/jackson-databind/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
+        <img src="https://github.com/FasterXML.png" width="52" height="52" alt="jackson-databind"/><br/>
+        <b>jackson-databind</b>
       </a>
     </td>
     <td align="center" width="14%">
