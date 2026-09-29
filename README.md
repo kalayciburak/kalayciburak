@@ -86,7 +86,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/quartz-scheduler/quartz/pull/1496">
+      <a href="https://github.com/quartz-scheduler/quartz/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/quartz-scheduler.png" width="52" height="52" alt="Quartz"/><br/>
         <b>Quartz</b>
       </a>
@@ -168,6 +168,12 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/jenkinsci/configuration-as-code-plugin/pull/2907">
+        <img src="https://github.com/jenkinsci.png" width="52" height="52" alt="configuration-as-code-plugin"/><br/>
+        <b>configuration-as-code-plugin</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/reactor/reactor-netty/pull/4362">
         <img src="https://github.com/reactor.png" width="52" height="52" alt="reactor-netty"/><br/>
         <b>reactor-netty</b>
@@ -185,14 +191,14 @@
         <b>opentelemetry-java</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/sedona/pull/3399">
         <img src="https://github.com/apache.png" width="52" height="52" alt="sedona"/><br/>
         <b>sedona</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/FasterXML/jackson-core/pull/1719">
         <img src="https://github.com/FasterXML.png" width="52" height="52" alt="jackson-core"/><br/>
@@ -229,14 +235,14 @@
         <b>Jimmer</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-integration/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-integration"/><br/>
         <b>spring-integration</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/javers/javers/pull/1498">
         <img src="https://github.com/javers.png" width="52" height="52" alt="javers"/><br/>
