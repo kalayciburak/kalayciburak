@@ -200,7 +200,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/FasterXML/jackson-core/pull/1719">
+      <a href="https://github.com/FasterXML/jackson-core/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/FasterXML.png" width="52" height="52" alt="jackson-core"/><br/>
         <b>jackson-core</b>
       </a>
