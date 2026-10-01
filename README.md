@@ -136,7 +136,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/spotbugs/spotbugs/pull/4231">
+      <a href="https://github.com/spotbugs/spotbugs/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/spotbugs.png" width="52" height="52" alt="spotbugs"/><br/>
         <b>spotbugs</b>
       </a>
