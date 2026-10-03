@@ -54,7 +54,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/OpenFeign/feign/pull/3508">
+      <a href="https://github.com/OpenFeign/feign/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/OpenFeign.png" width="52" height="52" alt="feign"/><br/>
         <b>feign</b>
       </a>
