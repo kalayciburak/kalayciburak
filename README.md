@@ -68,7 +68,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/apache/shenyu/pull/7317">
+      <a href="https://github.com/apache/shenyu/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/apache.png" width="52" height="52" alt="shenyu"/><br/>
         <b>shenyu</b>
       </a>
