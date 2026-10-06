@@ -30,6 +30,12 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/apache/incubator-seata/pull/8276">
+        <img src="https://github.com/apache.png" width="52" height="52" alt="incubator-seata"/><br/>
+        <b>incubator-seata</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/redisson/redisson/pull/7303">
         <img src="https://github.com/redisson.png" width="52" height="52" alt="redisson"/><br/>
         <b>redisson</b>
@@ -53,14 +59,14 @@
         <b>jedis</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/OpenFeign/feign/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/OpenFeign.png" width="52" height="52" alt="feign"/><br/>
         <b>feign</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/checkstyle.png" width="52" height="52" alt="checkstyle"/><br/>
@@ -97,14 +103,14 @@
         <b>Quartz</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/micronaut-projects/micronaut-core/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/micronaut-projects.png" width="52" height="52" alt="micronaut-core"/><br/>
         <b>micronaut-core</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/javaparser/javaparser/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/javaparser.png" width="52" height="52" alt="javaparser"/><br/>
@@ -141,14 +147,14 @@
         <b>micrometer</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spotbugs/spotbugs/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/spotbugs.png" width="52" height="52" alt="spotbugs"/><br/>
         <b>spotbugs</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/openrewrite/rewrite/pull/8441">
         <img src="https://github.com/openrewrite.png" width="52" height="52" alt="rewrite"/><br/>
@@ -185,14 +191,14 @@
         <b>reactor-netty</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-kafka/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="Spring Kafka"/><br/>
         <b>Spring Kafka</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/open-telemetry/opentelemetry-java/pull/8746">
         <img src="https://github.com/open-telemetry.png" width="52" height="52" alt="opentelemetry-java"/><br/>
@@ -212,6 +218,12 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/prometheus/client_java/pull/2528">
+        <img src="https://github.com/prometheus.png" width="52" height="52" alt="client_java"/><br/>
+        <b>client_java</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/apache/poi/pull/1265">
         <img src="https://github.com/apache.png" width="52" height="52" alt="poi"/><br/>
         <b>poi</b>
@@ -221,6 +233,14 @@
       <a href="https://github.com/flyingsaucerproject/flyingsaucer/pull/698">
         <img src="https://github.com/flyingsaucerproject.png" width="52" height="52" alt="Flying Saucer"/><br/>
         <b>Flying Saucer</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="14%">
+      <a href="https://github.com/apache/polaris/pull/5679">
+        <img src="https://github.com/apache.png" width="52" height="52" alt="polaris"/><br/>
+        <b>polaris</b>
       </a>
     </td>
     <td align="center" width="14%">
@@ -235,8 +255,6 @@
         <b>spring-session</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/babyfish-ct/jimmer/pull/1475">
         <img src="https://github.com/babyfish-ct.png" width="52" height="52" alt="Jimmer"/><br/>
@@ -261,6 +279,8 @@
         <b>eo</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/networknt/json-schema-validator/pull/1272">
         <img src="https://github.com/networknt.png" width="52" height="52" alt="json-schema-validator"/><br/>
@@ -279,8 +299,6 @@
         <b>GreenMail</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/jqno/equalsverifier/pull/1232">
         <img src="https://github.com/jqno.png" width="52" height="52" alt="equalsverifier"/><br/>
