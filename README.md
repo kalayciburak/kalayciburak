@@ -118,6 +118,12 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/apache/hudi/pull/20026">
+        <img src="https://github.com/apache.png" width="52" height="52" alt="hudi"/><br/>
+        <b>hudi</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/javaparser/javaparser/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/javaparser.png" width="52" height="52" alt="javaparser"/><br/>
         <b>javaparser</b>
@@ -141,14 +147,14 @@
         <b>pmd</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/maven/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/apache.png" width="52" height="52" alt="maven"/><br/>
         <b>maven</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/line/armeria/pull/6921">
         <img src="https://github.com/line.png" width="52" height="52" alt="armeria"/><br/>
@@ -185,14 +191,14 @@
         <b>Log4j2</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/paimon/pull/10337">
         <img src="https://github.com/apache.png" width="52" height="52" alt="paimon"/><br/>
         <b>paimon</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/gravitino/pull/13681">
         <img src="https://github.com/apache.png" width="52" height="52" alt="gravitino"/><br/>
@@ -229,14 +235,14 @@
         <b>Spring Kafka</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/open-telemetry/opentelemetry-java/pull/8746">
         <img src="https://github.com/open-telemetry.png" width="52" height="52" alt="opentelemetry-java"/><br/>
         <b>opentelemetry-java</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/sedona/pull/3399">
         <img src="https://github.com/apache.png" width="52" height="52" alt="sedona"/><br/>
@@ -273,14 +279,14 @@
         <b>polaris</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/testng-team/testng/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/testng-team.png" width="52" height="52" alt="testng"/><br/>
         <b>testng</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-session/pull/3887">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-session"/><br/>
@@ -317,14 +323,14 @@
         <b>json-schema-validator</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-amqp/pull/3610">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-amqp"/><br/>
         <b>spring-amqp</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/greenmail-mail-test/greenmail/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/greenmail-mail-test.png" width="52" height="52" alt="GreenMail"/><br/>
