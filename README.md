@@ -18,6 +18,12 @@
 <table>
   <tr>
     <td align="center" width="14%">
+      <a href="https://github.com/morluto/rea/pull/2777">
+        <img src="https://github.com/morluto.png" width="52" height="52" alt="rea"/><br/>
+        <b>rea</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/mui/material-ui/pull/48880">
         <img src="https://github.com/mui.png" width="52" height="52" alt="MUI"/><br/>
         <b>MUI</b>
@@ -53,14 +59,14 @@
         <b>pulsar</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/plantuml/plantuml/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/plantuml.png" width="52" height="52" alt="PlantUML"/><br/>
         <b>PlantUML</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/redis/jedis/pull/4683">
         <img src="https://github.com/redis.png" width="52" height="52" alt="jedis"/><br/>
@@ -97,14 +103,14 @@
         <b>javalin</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/wiremock/wiremock/pull/3595">
         <img src="https://github.com/wiremock.png" width="52" height="52" alt="wiremock"/><br/>
         <b>wiremock</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/quartz-scheduler/quartz/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/quartz-scheduler.png" width="52" height="52" alt="Quartz"/><br/>
@@ -141,14 +147,14 @@
         <b>liquibase</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/pmd/pmd/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/pmd.png" width="52" height="52" alt="pmd"/><br/>
         <b>pmd</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/maven/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/apache.png" width="52" height="52" alt="maven"/><br/>
@@ -156,7 +162,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/line/armeria/pull/6921">
+      <a href="https://github.com/line/armeria/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/line.png" width="52" height="52" alt="armeria"/><br/>
         <b>armeria</b>
       </a>
@@ -185,14 +191,14 @@
         <b>jackson-databind</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/logging-log4j2/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/apache.png" width="52" height="52" alt="Log4j2"/><br/>
         <b>Log4j2</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/paimon/pull/10337">
         <img src="https://github.com/apache.png" width="52" height="52" alt="paimon"/><br/>
@@ -229,14 +235,14 @@
         <b>reactor-netty</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-kafka/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="Spring Kafka"/><br/>
         <b>Spring Kafka</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/open-telemetry/opentelemetry-java/pull/8746">
         <img src="https://github.com/open-telemetry.png" width="52" height="52" alt="opentelemetry-java"/><br/>
@@ -273,14 +279,14 @@
         <b>Flying Saucer</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/polaris/pull/5679">
         <img src="https://github.com/apache.png" width="52" height="52" alt="polaris"/><br/>
         <b>polaris</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/testng-team/testng/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/testng-team.png" width="52" height="52" alt="testng"/><br/>
@@ -317,14 +323,14 @@
         <b>eo</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/networknt/json-schema-validator/pull/1272">
         <img src="https://github.com/networknt.png" width="52" height="52" alt="json-schema-validator"/><br/>
         <b>json-schema-validator</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-amqp/pull/3610">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-amqp"/><br/>
