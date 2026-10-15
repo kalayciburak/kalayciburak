@@ -68,7 +68,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/redis/jedis/pull/4683">
+      <a href="https://github.com/redis/jedis/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/redis.png" width="52" height="52" alt="jedis"/><br/>
         <b>jedis</b>
       </a>
