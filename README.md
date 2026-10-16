@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td align="center" width="14%">
-      <a href="https://github.com/morluto/rea/pull/2777">
+      <a href="https://github.com/morluto/rea/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/morluto.png" width="52" height="52" alt="rea"/><br/>
         <b>rea</b>
       </a>
