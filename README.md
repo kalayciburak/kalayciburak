@@ -54,13 +54,19 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/mockito/mockito/pull/3853">
+        <img src="https://github.com/mockito.png" width="52" height="52" alt="mockito"/><br/>
+        <b>mockito</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="14%">
       <a href="https://github.com/apache/pulsar/pull/26799">
         <img src="https://github.com/apache.png" width="52" height="52" alt="pulsar"/><br/>
         <b>pulsar</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/plantuml/plantuml/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/plantuml.png" width="52" height="52" alt="PlantUML"/><br/>
@@ -97,14 +103,14 @@
         <b>testcontainers-java</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/javalin/javalin/pull/2641">
         <img src="https://github.com/javalin.png" width="52" height="52" alt="javalin"/><br/>
         <b>javalin</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/wiremock/wiremock/pull/3595">
         <img src="https://github.com/wiremock.png" width="52" height="52" alt="wiremock"/><br/>
@@ -141,14 +147,14 @@
         <b>Spotless</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/liquibase/liquibase/pull/8024">
         <img src="https://github.com/liquibase.png" width="52" height="52" alt="liquibase"/><br/>
         <b>liquibase</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/pmd/pmd/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/pmd.png" width="52" height="52" alt="pmd"/><br/>
@@ -185,14 +191,14 @@
         <b>rewrite</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/FasterXML/jackson-databind/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/FasterXML.png" width="52" height="52" alt="jackson-databind"/><br/>
         <b>jackson-databind</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/logging-log4j2/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/apache.png" width="52" height="52" alt="Log4j2"/><br/>
@@ -229,14 +235,14 @@
         <b>configuration-as-code-plugin</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/reactor/reactor-netty/pull/4362">
         <img src="https://github.com/reactor.png" width="52" height="52" alt="reactor-netty"/><br/>
         <b>reactor-netty</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-kafka/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="Spring Kafka"/><br/>
@@ -273,14 +279,14 @@
         <b>poi</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/flyingsaucerproject/flyingsaucer/pull/698">
         <img src="https://github.com/flyingsaucerproject.png" width="52" height="52" alt="Flying Saucer"/><br/>
         <b>Flying Saucer</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/polaris/pull/5679">
         <img src="https://github.com/apache.png" width="52" height="52" alt="polaris"/><br/>
@@ -317,14 +323,14 @@
         <b>javers</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/objectionary/eo/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/objectionary.png" width="52" height="52" alt="eo"/><br/>
         <b>eo</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/networknt/json-schema-validator/pull/1272">
         <img src="https://github.com/networknt.png" width="52" height="52" alt="json-schema-validator"/><br/>
