@@ -180,19 +180,25 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/h2database/h2database/pull/4422">
+        <img src="https://github.com/h2database.png" width="52" height="52" alt="h2database"/><br/>
+        <b>h2database</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/spotbugs/spotbugs/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/spotbugs.png" width="52" height="52" alt="spotbugs"/><br/>
         <b>spotbugs</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/openrewrite/rewrite/pull/8441">
         <img src="https://github.com/openrewrite.png" width="52" height="52" alt="rewrite"/><br/>
         <b>rewrite</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/FasterXML/jackson-databind/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/FasterXML.png" width="52" height="52" alt="jackson-databind"/><br/>
@@ -229,14 +235,14 @@
         <b>textbee</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/jenkinsci/configuration-as-code-plugin/pull/2907">
         <img src="https://github.com/jenkinsci.png" width="52" height="52" alt="configuration-as-code-plugin"/><br/>
         <b>configuration-as-code-plugin</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/reactor/reactor-netty/pull/4362">
         <img src="https://github.com/reactor.png" width="52" height="52" alt="reactor-netty"/><br/>
@@ -273,14 +279,14 @@
         <b>client_java</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/poi/pull/1265">
         <img src="https://github.com/apache.png" width="52" height="52" alt="poi"/><br/>
         <b>poi</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/flyingsaucerproject/flyingsaucer/pull/698">
         <img src="https://github.com/flyingsaucerproject.png" width="52" height="52" alt="Flying Saucer"/><br/>
@@ -317,14 +323,14 @@
         <b>spring-integration</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/javers/javers/pull/1498">
         <img src="https://github.com/javers.png" width="52" height="52" alt="javers"/><br/>
         <b>javers</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/objectionary/eo/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/objectionary.png" width="52" height="52" alt="eo"/><br/>
