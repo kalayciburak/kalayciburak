@@ -224,15 +224,15 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/apache/hugegraph/pull/3291">
-        <img src="https://github.com/apache.png" width="52" height="52" alt="hugegraph"/><br/>
-        <b>hugegraph</b>
-      </a>
-    </td>
-    <td align="center" width="14%">
       <a href="https://github.com/textbee/textbee/pull/268">
         <img src="https://github.com/textbee.png" width="52" height="52" alt="textbee"/><br/>
         <b>textbee</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
+      <a href="https://github.com/apache/hugegraph/pull/3291">
+        <img src="https://github.com/apache.png" width="52" height="52" alt="hugegraph"/><br/>
+        <b>hugegraph</b>
       </a>
     </td>
   </tr>
