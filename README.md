@@ -136,19 +136,25 @@
       </a>
     </td>
     <td align="center" width="14%">
+      <a href="https://github.com/graphql-java/graphql-java/pull/4476">
+        <img src="https://github.com/graphql-java.png" width="52" height="52" alt="graphql-java"/><br/>
+        <b>graphql-java</b>
+      </a>
+    </td>
+    <td align="center" width="14%">
       <a href="https://github.com/javaparser/javaparser/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/javaparser.png" width="52" height="52" alt="javaparser"/><br/>
         <b>javaparser</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/diffplug/spotless/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/diffplug.png" width="52" height="52" alt="Spotless"/><br/>
         <b>Spotless</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/liquibase/liquibase/pull/8024">
         <img src="https://github.com/liquibase.png" width="52" height="52" alt="liquibase"/><br/>
@@ -185,14 +191,14 @@
         <b>h2database</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spotbugs/spotbugs/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/spotbugs.png" width="52" height="52" alt="spotbugs"/><br/>
         <b>spotbugs</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/openrewrite/rewrite/pull/8441">
         <img src="https://github.com/openrewrite.png" width="52" height="52" alt="rewrite"/><br/>
@@ -229,14 +235,14 @@
         <b>textbee</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/hugegraph/pull/3291">
         <img src="https://github.com/apache.png" width="52" height="52" alt="hugegraph"/><br/>
         <b>hugegraph</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/jenkinsci/configuration-as-code-plugin/pull/2907">
         <img src="https://github.com/jenkinsci.png" width="52" height="52" alt="configuration-as-code-plugin"/><br/>
@@ -273,14 +279,14 @@
         <b>jackson-core</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/prometheus/client_java/pull/2528">
         <img src="https://github.com/prometheus.png" width="52" height="52" alt="client_java"/><br/>
         <b>client_java</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/poi/pull/1265">
         <img src="https://github.com/apache.png" width="52" height="52" alt="poi"/><br/>
@@ -317,14 +323,14 @@
         <b>Jimmer</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-integration/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-integration"/><br/>
         <b>spring-integration</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/javers/javers/pull/1498">
         <img src="https://github.com/javers.png" width="52" height="52" alt="javers"/><br/>
