@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td align="center" width="14%">
-      <a href="https://github.com/morluto/rea/pull/2777">
+      <a href="https://github.com/morluto/rea/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/morluto.png" width="52" height="52" alt="rea"/><br/>
         <b>rea</b>
       </a>
@@ -168,7 +168,7 @@
       </a>
     </td>
     <td align="center" width="14%">
-      <a href="https://github.com/apache/maven/pull/12722">
+      <a href="https://github.com/apache/maven/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/apache.png" width="52" height="52" alt="maven"/><br/>
         <b>maven</b>
       </a>
@@ -193,6 +193,12 @@
     </td>
   </tr>
   <tr>
+    <td align="center" width="14%">
+      <a href="https://github.com/jetty/jetty.project/pull/15928">
+        <img src="https://github.com/jetty.png" width="52" height="52" alt="jetty.project"/><br/>
+        <b>jetty.project</b>
+      </a>
+    </td>
     <td align="center" width="14%">
       <a href="https://github.com/openrewrite/rewrite/pull/8441">
         <img src="https://github.com/openrewrite.png" width="52" height="52" alt="rewrite"/><br/>
@@ -229,14 +235,14 @@
         <b>gravitino</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/textbee/textbee/pull/268">
         <img src="https://github.com/textbee.png" width="52" height="52" alt="textbee"/><br/>
         <b>textbee</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/apache/hugegraph/pull/3291">
         <img src="https://github.com/apache.png" width="52" height="52" alt="hugegraph"/><br/>
@@ -273,14 +279,14 @@
         <b>sedona</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/FasterXML/jackson-core/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/FasterXML.png" width="52" height="52" alt="jackson-core"/><br/>
         <b>jackson-core</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/prometheus/client_java/pull/2528">
         <img src="https://github.com/prometheus.png" width="52" height="52" alt="client_java"/><br/>
@@ -317,14 +323,14 @@
         <b>spring-session</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/babyfish-ct/jimmer/pull/1475">
         <img src="https://github.com/babyfish-ct.png" width="52" height="52" alt="Jimmer"/><br/>
         <b>Jimmer</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/spring-projects/spring-integration/pulls?q=is%3Apr+is%3Amerged+author%3Akalayciburak">
         <img src="https://github.com/spring-projects.png" width="52" height="52" alt="spring-integration"/><br/>
@@ -361,6 +367,8 @@
         <b>GreenMail</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="14%">
       <a href="https://github.com/jqno/equalsverifier/pull/1232">
         <img src="https://github.com/jqno.png" width="52" height="52" alt="equalsverifier"/><br/>
